@@ -1,2 +1,2 @@
 # hello-word
-Meu primeiro repositório, teste.vg
+Meu primeiro repositório.
